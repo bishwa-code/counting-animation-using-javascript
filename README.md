@@ -1,3 +1,3 @@
 # JavaScript Practice 
-### counting-animation-using-javascript
-**responsive counting animation using JavaScript💻🔰**
+### Counting-Animation-Using-JavaScript
+**Responsive Counting Animation using JavaScript💻🔰**
